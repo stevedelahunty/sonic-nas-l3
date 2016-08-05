@@ -15,7 +15,8 @@ libsonic_hal_routing_la_SOURCES=src/hal_rt_arp.c src/hal_rt_debug.c \
 
 libsonic_hal_routing_la_CPPFLAGS= -D_FILE_OFFSET_BITS=64 -I$(top_srcdir)/sonic -I$(includedir)/sonic
 
-libsonic_hal_routing_la_LDFLAGS=-shared -lsonic_nas_linux -lsonic_common -lsonic_nas_ndi -lsonic_object_library -lsonic_cps_class_map -lsonic_logging -lcrypto -version-info 1:1:0
-
 libsonic_hal_routing_la_CXXFLAGS=-std=c++11
 
+libsonic_hal_routing_la_LDFLAGS=-shared -version-info 1:1:0
+
+libsonic_hal_routing_la_LIBADD=-lsonic_nas_linux -lsonic_common -lsonic_nas_ndi -lsonic_object_library -lsonic_cps_class_map -lsonic_logging -lcrypto
