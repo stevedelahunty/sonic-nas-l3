@@ -4,6 +4,8 @@ Priority: optional
 Maintainer: Dell <support@dell.com>
 Build-Depends: debhelper (>= 9),dh-autoreconf,autotools-dev,libsonic-common-dev,libsonic-nas-common-dev,libsonic-object-library-dev,libsonic-logging-dev,libsonic-nas-linux-dev,libsonic-nas-ndi-dev,sonic-ndi-api-dev,libssl-dev
 Standards-Version: 3.9.3
+Vcs-Browser: https://github.com/Azure/sonic-nas-l3
+Vcs-Git: https://github.com/Azure/sonic-nas-l3.git
 
 Package: libsonic-nas-l3-1
 Architecture: any
