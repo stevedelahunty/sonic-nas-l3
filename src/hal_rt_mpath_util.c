@@ -17,8 +17,6 @@
 /*
  * \file   hal_rt_mpath_util.c
  * \brief  NAS Routing ECMP Multipath Group utility functions
- * \date   03-2015
- * \author Satish Mynam
  */
 
 #include "hal_rt_mpath_grp.h"

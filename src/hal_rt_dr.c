@@ -17,8 +17,6 @@
 /*!
  * \file   hal_rt_dr.c
  * \brief  Hal Routing DR functionality
- * \date   05-2014
- * \author Prince Sunny & Satish Mynam
  */
 
 #include "hal_rt_main.h"

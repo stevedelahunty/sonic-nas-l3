@@ -19,8 +19,6 @@
 /*!
  * \file   hal_rt_util.c
  * \brief  Hal Routing Utilities
- * \date   05-2014
- * \author Prince Sunny & Satish Mynam
  */
 
 #ifdef __cplusplus

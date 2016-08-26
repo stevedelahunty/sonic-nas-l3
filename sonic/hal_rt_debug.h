@@ -19,8 +19,6 @@
 /*!
  * \file   hal_rt_debug.h
  * \brief  Hal Routing debug functionality
- * \date   05-2014
- * \author Prince Sunny and Satish Mynam
  */
 
 #ifndef __HAL_RT_DEBUG_H__

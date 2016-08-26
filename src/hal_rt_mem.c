@@ -17,7 +17,6 @@
 /*!
  * \file   hal_rt_mem.c
  * \brief  Hal Routing Memory management functionality
- * \date   05-2014
  */
 
 #include "hal_rt_main.h"

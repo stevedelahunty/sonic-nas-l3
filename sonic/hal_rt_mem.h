@@ -19,8 +19,6 @@
 /*!
  * \file   hal_rt_mem.h
  * \brief  Hal Routing Memory Management functionality
- * \date   05-2014
- * \author Prince Sunny and Satish Mynam
  */
 
 #ifndef __HAL_RT_MEM_H__

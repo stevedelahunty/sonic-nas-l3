@@ -17,7 +17,6 @@
 /*!
  * \file   hal_rt_debug.c
  * \brief  Hal Routing Debug functionality
- * \date   05-2014
  */
 
 #include "hal_rt_main.h"

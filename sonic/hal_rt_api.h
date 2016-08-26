@@ -19,8 +19,6 @@
 /*!
  * \file   hal_rt_api.h
  * \brief  Hal Routing functionality
- * \date   05-2014
- * \author Prince Sunny and Satish Mynam
  */
 
 #ifndef __HAL_RT_API_H__

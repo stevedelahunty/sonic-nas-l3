@@ -19,8 +19,6 @@
 /*!
  * \file   hal_rt_util.h
  * \brief  Hal Routing Utilities
- * \date   05-2014
- * \author Prince Sunny and Satish Mynam
  */
 
 #ifndef __HAL_RT_UTIL_H__

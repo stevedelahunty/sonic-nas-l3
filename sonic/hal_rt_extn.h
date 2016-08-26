@@ -19,8 +19,6 @@
 /*!
  * \file   hal_rt_extn.h
  * \brief  Hal routing external header file
- * \date   04-2014
- * \author Prince Sunny and Satish Mynam
  */
 
 #ifndef __HAL_ROUTING_H
