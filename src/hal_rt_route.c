@@ -17,8 +17,6 @@
 /*
  * \file   hal_rt_route.c
  * \brief  Hal Routing south bound APIs
- * \date   04-2014
- * \author Satish Mynam/Prince Sunny
  */
 
 #include "hal_rt_main.h"

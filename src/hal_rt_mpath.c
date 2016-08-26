@@ -17,8 +17,6 @@
 /*
  * \file   hal_rt_mpath.c
  * \brief NAS Routing - ECMP functions(add, modify, delte)
- * \date   04-2014
- * \author Satish Mynam
  */
 
 #include "hal_rt_main.h"

@@ -17,8 +17,6 @@
 /*!
  * \file   hal_rt_arp.c
  * \brief  Hal Routing arp functionality
- * \date   05-2014
- * \author Prince Sunny and Satish Mynam
  */
 
 #include "hal_rt_main.h"

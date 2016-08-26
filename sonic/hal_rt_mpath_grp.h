@@ -19,8 +19,6 @@
 /*
  * \file   hal_rt_mpath_grp.h
  * \brief  This file contains the type definitions for multipath grouping.
- * \date   04-2014, 4-2015
- * \author Satish Mynam
  */
 
 #ifndef __HAL_RT_MPATH_GROUP_H__

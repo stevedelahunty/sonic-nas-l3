@@ -17,8 +17,6 @@
 /*!
  * \file   hal_rt_main.c
  * \brief  Hal Routing core functionality
- * \date   05-2014
- * \author Prince Sunny & Satish Mynam
  */
 
 #define _GNU_SOURCE

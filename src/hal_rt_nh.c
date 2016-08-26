@@ -17,8 +17,6 @@
 /*!
  * \file   hal_rt_nh.c
  * \brief  Hal Routing Next Hop functionality
- * \date   05-2014
- * \author Prince Sunny & Satish Mynam
  */
 
 #include "hal_rt_main.h"
