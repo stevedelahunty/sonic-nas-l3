@@ -152,7 +152,7 @@ t_std_error hal_form_nbr_entry(ndi_neighbor_t *p_nbr_entry, t_fib_nh *p_nh)
 
 }
 
-inline void hal_dump_nbr_entry(ndi_neighbor_t *p_nbr_entry)
+static inline void hal_dump_nbr_entry(ndi_neighbor_t *p_nbr_entry)
 {
     EV_LOG_TRACE(ev_log_t_ROUTE, 1, "HAL-RT-NDI", "VRF %d. Nbr Addr: %s "
                  "npu_id %d, port %d Rif %d state %d\r\n",
